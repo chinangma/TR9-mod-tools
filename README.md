@@ -6,4 +6,4 @@ Tomb Raider 2013 (TR9)  mesh file Blender3D addon and tiger file injection
 - Need Ekey's  tr9drmdumper tool to extract mesh file and texture file from drm file.
 - io_TR9_mod_tool_v0_7.py is a Blender 3D (v2.7x only) addon script that import/export mesh file.
 - tr9tigetadd is a tool to insert new mesh and texture file into patch?.000.tiger /PACK???.tiger file
-- v1_lara_test contain install.bat that demostrat how to batch inject files. Require CDRM.exe from Gh0stBlade's cdcEngine tools.
+- v1_lara_test contains install.bat that demonstrates how to batch inject files. Require CDRM.exe from Gh0stBlade's cdcEngine tools.
